@@ -91,3 +91,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     alarm_clock = AlarmClock(root)
     root.mainloop()
+Delete alarm1.py
